@@ -5,7 +5,7 @@ Of sentences from articles, documentation and information files on various techn
 ## about this program
 This code, implements an algorithm that load the 2021-archive txt files, and then run a cmd which lets you to enter word, hit enter, than get five sentences with best adjustment to the entered value.
 ## cope with mistakes at the entered word
-results include at most one mistake at the word - replace one char at othe, forget one char, add indent char. 
+results are found even if you have at most one mistake at the word - replace one char at othe, forget one char, add indent char. 
 ## another abilities of the program
 as long as you didn't enter '#' char , you continue last word search. 
 as you enter '#', you can begin new word.
